@@ -13,7 +13,5 @@ Skills: REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dru-pong)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/EmmanuelOduro-Opong)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/drupong)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dru-pong)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dru-pong&show_icons=true)  
 
