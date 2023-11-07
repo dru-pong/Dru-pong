@@ -1,6 +1,17 @@
-### Hi there 👋
+![Design and Development](https://www.shutterstock.com/image-vector/programming-web-banner-best-languages-260nw-1676060566.jpg)
+### Hi there 👋, I'm Emmanuel Oduro-Opong
+#### Design and Development
 
-I'm Emmanuel from Ghana, and I am a student pursuing my BSc Computer Science degree. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress.
-I also enjoy wireframing, ui, ux,
-and design in general. 
-[![Anurag's_github stats](https://github-readme-stats.vercel.app/api?username=dru-pong)](https://github.com/anuraghazra/github-readme-stats)]
+I'm Emmanuel from Ghana, and I am a student pursuing my BSc Computer Science degree. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+
+Skills: REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on app cloning 
+- 🌱 I’m currently learning Python 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dru-pong)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Emmanuel Oduro-Opong )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/drupong)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dru-pong&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/Dru-pong)  
