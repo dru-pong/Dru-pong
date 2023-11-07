@@ -7,9 +7,6 @@ I'm Emmanuel from Ghana, and I am a student pursuing my BSc Computer Science deg
 * 📱 REACT NATIVE
 * 💻 JavaScript / HTML / CSS
 
-- 🔭 I’m currently working on app cloning 
-- 🌱 I’m currently learning Python 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dru-pong)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/EmmanuelOduro-Opong)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/drupong)  
 
