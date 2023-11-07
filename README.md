@@ -1,11 +1,11 @@
 ![Design and Development](https://www.shutterstock.com/image-vector/programming-web-banner-best-languages-260nw-1676060566.jpg)
 ### Hi there 👋, Emmanuel Oduro-Opong
-#### Design and Development
-
-
 I'm Emmanuel from Ghana, and I am a student pursuing my BSc Computer Science degree. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
-Skills: REACT / JS / HTML / CSS
+## Skills and Experience
+* ⚛️ REACT
+* 📱 REACT NATIVE
+* 💻 JavaScript / HTML / CSS
 
 - 🔭 I’m currently working on app cloning 
 - 🌱 I’m currently learning Python 
